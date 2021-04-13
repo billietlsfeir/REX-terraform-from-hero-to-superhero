@@ -39,7 +39,11 @@ function collaboration() {
 }
 
 function automation() {
-  return ['04-automation/00-TITLE.md'];
+  return [
+    '04-automation/00-TITLE.md',
+    '04-automation/10-ci.md',
+    '04-automation/20-test.md'
+  ];
 }
 
 function security() {
