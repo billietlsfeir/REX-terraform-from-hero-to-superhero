@@ -16,7 +16,14 @@ function toolPresentation() {
 }
 
 function infraAsCode() {
-  return ['02-InfraAsCode/00-TITLE.md'];
+  return [
+    '02-InfraAsCode/00-TITLE.md', 
+    '02-InfraAsCode/10-provider.md', 
+    '02-InfraAsCode/20-wysiwyg.md', 
+    '02-InfraAsCode/30-create-import.md', 
+    '02-InfraAsCode/40-repeat.md', 
+    '02-InfraAsCode/50-lifecycle.md'
+  ];
 }
 
 function collaboration() {
