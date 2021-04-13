@@ -3,8 +3,8 @@
 # Présentation
 
 ![speaker](./assets/images/jf.jpg)
-![badge](./assets/images/gde.png)
-![company](./assets/images/logo_sfeir_bleu_orange.png)
+![badge](./assets/images/Terraform-Associate-Badge-transp.png)
+![company](./assets/images/logo-SFEIR-blanc.png)
 
 ## Jean-François Garreau
 
