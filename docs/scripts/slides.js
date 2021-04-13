@@ -27,7 +27,15 @@ function infraAsCode() {
 }
 
 function collaboration() {
-  return ['03-collaboration/00-TITLE.md'];
+  return [
+    '03-collaboration/00-TITLE.md',
+    '03-collaboration/10-module.md',
+    '03-collaboration/20-scale.md',
+    '03-collaboration/30-pull-request.md',
+    '03-collaboration/40-colocation.md',
+    '03-collaboration/50-easy.md',
+    '03-collaboration/60-devops.md',
+  ];
 }
 
 function automation() {
