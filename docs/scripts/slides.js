@@ -12,7 +12,10 @@ function conclusionSlides() {
 }
 
 function toolPresentation() {
-  return ['01-toolPresentation/00-TITLE.md'];
+  return [
+    '01-toolPresentation/00-TITLE.md',
+    '01-toolPresentation/10-what.md'
+  ];
 }
 
 function infraAsCode() {
@@ -47,7 +50,15 @@ function automation() {
 }
 
 function security() {
-  return ['05-security/00-TITLE.md'];
+  return [
+    '05-security/00-TITLE.md',
+    '05-security/10-ConfAAS.md',
+    '05-security/20-Integration.md',
+    '05-security/30-validation.md',
+    '05-security/40-rights.md',
+    '05-security/50-well-supported.md',
+    '05-security/60-fix-for-all.md',
+  ];
 }
 
 function formation() {
