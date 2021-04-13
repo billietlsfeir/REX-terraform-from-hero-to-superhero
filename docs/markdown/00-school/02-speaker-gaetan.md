@@ -2,14 +2,14 @@
 
 # Présentation
 
-![speaker](./assets/images/lb.png)
-![badge](./assets/images/Terraform-Associate-Badge-transp.png)
+![speaker](./assets/images/gb.jpg)
+![badge second-badge](./assets/images/Terraform-Associate-Badge-transp.png)
 ![company](./assets/images/logo-SFEIR-blanc.png)
 
-## Louis Billiet
+<h2>Gaetan <span>BOGAERT</span></h2>
 
-### Site Reliability Engineer
+### DevOps engineer
 <!-- .element: class="icon-rule icon-first" -->
 
-### Louis Billiet
+### @bogaert.g@sfeir.com
 <!-- .element: class="icon-phone icon-second" -->

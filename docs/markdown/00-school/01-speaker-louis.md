@@ -2,16 +2,14 @@
 
 # Présentation
 
-![speaker](./assets/images/jf.jpg)
+![speaker](./assets/images/lb.png)
 ![badge](./assets/images/Terraform-Associate-Badge-transp.png)
 ![company](./assets/images/logo-SFEIR-blanc.png)
 
-## Jean-François Garreau
+<h2>Louis <span>Billiet</span></h2>
 
-### CTO front
+### Site Reliability Engineer
 <!-- .element: class="icon-rule icon-first" -->
 
-### @jefbinomed
-<!-- .element: class="icon-twitter icon-second" -->
-
-
+### Louis Billiet
+<!-- .element: class="icon-phone icon-second" -->

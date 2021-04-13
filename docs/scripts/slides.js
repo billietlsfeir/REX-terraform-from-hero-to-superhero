@@ -1,6 +1,6 @@
 // One method per module
 function schoolSlides() {
-  return ['00-school/00-TITLE.md', '00-school/speaker-gaetan.md', '00-school/speaker-louis.md'];
+  return ['00-school/00-TITLE.md', '00-school/01-speaker-louis.md','00-school/02-speaker-gaetan.md'];
 }
 
 function introSlides() {
@@ -20,11 +20,11 @@ function toolPresentation() {
 
 function infraAsCode() {
   return [
-    '02-InfraAsCode/00-TITLE.md', 
-    '02-InfraAsCode/10-provider.md', 
-    '02-InfraAsCode/20-wysiwyg.md', 
-    '02-InfraAsCode/30-create-import.md', 
-    '02-InfraAsCode/40-repeat.md', 
+    '02-InfraAsCode/00-TITLE.md',
+    '02-InfraAsCode/10-provider.md',
+    '02-InfraAsCode/20-wysiwyg.md',
+    '02-InfraAsCode/30-create-import.md',
+    '02-InfraAsCode/40-repeat.md',
     '02-InfraAsCode/50-lifecycle.md'
   ];
 }
