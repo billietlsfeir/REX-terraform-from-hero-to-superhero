@@ -1,6 +1,7 @@
 <!-- .slide: -->
 
-# Provider
+# Infrastructure as Code
+## Provider
 <br/>
 
 * Enjeux de l’infrastructure

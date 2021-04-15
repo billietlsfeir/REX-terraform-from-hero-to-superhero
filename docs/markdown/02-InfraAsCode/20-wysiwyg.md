@@ -1,4 +1,6 @@
-# What you see is what you get
+
+# Infrastructure as Code
+## What you see is what you get
 
 Terraform will provide infrastructure bits just as you wrote it.
 
@@ -6,7 +8,8 @@ Nothing more, nothing less.
 
 ##==##
 
-# What you see is what you get
+# Infrastructure as Code
+## What you see is what you get
 
 This will get you an empty bucket and an empty DNS zone.
 
@@ -26,7 +29,8 @@ Notes:
 
 ##==##
 
-# What you see is what you get
+# Infrastructure as Code
+## What you see is what you get
 
     But when we do this in the console, we get many resources automatically created...
 
