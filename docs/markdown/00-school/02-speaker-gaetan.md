@@ -11,5 +11,5 @@
 ### DevOps engineer
 <!-- .element: class="icon-rule icon-first" -->
 
-### @bogaert.g@sfeir.com
+### bogaert.g@sfeir.com
 <!-- .element: class="icon-phone icon-second" -->
