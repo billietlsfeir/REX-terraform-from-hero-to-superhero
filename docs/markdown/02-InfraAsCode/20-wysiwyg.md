@@ -7,13 +7,14 @@ Terraform will provide infrastructure bits just as you wrote it.
 Nothing more, nothing less.
 
 ##==##
+<!-- .slide: class="with-code" -->
 
 # Infrastructure as Code
 ## What you see is what you get
 
-This will get you an empty bucket and an empty DNS zone.
+This will get you an empty bucket and an empty DNS zone.  
 
-```hcl
+```tf
 resource "aws_s3_bucket" "demo_bucket" {
   bucket = "a-demo-bucket-for-LVMH"
 }
@@ -22,6 +23,7 @@ resource "aws_route53_zone" "demo_route53_zone" {
   name = "hello-lvmh.com"
 }
 ```
+<!-- .element: class="big-code" -->
 
 Notes: 
 - The bucket is empty, private, with no static-website access

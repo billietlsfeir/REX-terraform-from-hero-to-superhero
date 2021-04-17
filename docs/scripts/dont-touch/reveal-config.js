@@ -53,10 +53,16 @@ import { usedSlides } from '../slides.js';
             }
           },
           {
+            src: './web_modules/highlightjs-terraform/terraform.js',
+            async: false
+          },
+          {
             src: './web_modules/reveal.js/plugin/highlight/highlight.js',
-            async: true,
+            async: false,
             callback: function() {
+              hljs.registerLanguage('terraform', window.hljsDefineTerraform);
               hljs.initHighlightingOnLoad();
+
             }
           },
           {
