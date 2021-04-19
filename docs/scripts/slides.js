@@ -58,6 +58,7 @@ function security() {
     '05-security/40-rights.md',
     '05-security/50-well-supported.md',
     '05-security/60-fix-for-all.md',
+    '05-security/70-update-dependencies.md',
   ];
 }
 
