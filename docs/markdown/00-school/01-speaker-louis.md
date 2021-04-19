@@ -11,5 +11,5 @@
 ### Site Reliability Engineer
 <!-- .element: class="icon-rule icon-first" -->
 
-### Louis Billiet
+### billiet.l@sfeir.com
 <!-- .element: class="icon-phone icon-second" -->

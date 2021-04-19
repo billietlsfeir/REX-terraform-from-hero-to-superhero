@@ -1,9 +1,9 @@
 # Infrastructure as Code
 ## Lifecycle
 
-IaaS is not one shot code ! (@retravailler la phrase)
+IaaS is not fire and forget code !
 
-if infrastructure need to evolve => update your code !
+If your infrastructure needs to evolve, update your code or get in trouble !
 
 
 
