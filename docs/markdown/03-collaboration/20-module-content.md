@@ -1,10 +1,9 @@
 <!-- .slide: class="with-code" -->
 # Collaboration
 
-## Module
+## Module content
 
-
-* Share code
+* What do you want
 * Reuse module is faster than recreate
 * Many ways to source module
 
