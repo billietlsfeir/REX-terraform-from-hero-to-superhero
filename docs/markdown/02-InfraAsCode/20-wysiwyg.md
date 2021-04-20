@@ -34,7 +34,9 @@ Notes:
 # Infrastructure as Code
 ## What you see is what you get  
   
-    But when we do this in the console, we sometimes get many resources automatically created...
+> But when we do this in the console, we sometimes get many resources automatically created...
+
+
 Terraform won't hide such things.
 
 Notes:
