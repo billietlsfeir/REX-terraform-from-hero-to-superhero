@@ -1,3 +1,3 @@
 <!-- .slide: class="transition bg-pink" -->
 
-# Collaboration
+# What is Terraform
