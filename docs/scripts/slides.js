@@ -16,7 +16,7 @@ function retroSlides() {
 }
 
 function conclusionSlides() {
-  return ['04-Conclusion/00-TITLE.md'];
+  return ['04-Conclusion/00-TITLE.md','04-Conclusion/01-ADVICES.md','04-Conclusion/02-THANKS.md'];
 }
 
 function formation() {
