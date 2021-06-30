@@ -4,7 +4,7 @@ function introSlides() {
 }
 
 function contextSlides() {
-  return ['01-Context/00-TITLE.md'];
+  return ['01-Context/00-TITLE.md', '01-Context/10-WISH.md', '01-Context/20-DECISION.md'];
 }
 
 function buildSlides() {
