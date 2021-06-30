@@ -8,7 +8,7 @@
 
 <h2>Gaetan <span>BOGAERT</span></h2>
 
-### DevOps engineer
+### Site Reliability Engineer
 <!-- .element: class="icon-rule icon-first" -->
 
 ### bogaert.g@sfeir.com
