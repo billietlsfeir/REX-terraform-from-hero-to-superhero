@@ -41,6 +41,8 @@ locals {
 # Designing the new infrastructure code
 ## Terraform cloud
 
+![float-left w-700](./assets/images/terraform.png)
+
 - Github integration
 - Rights management
 - Single overview of every **workspaces**
