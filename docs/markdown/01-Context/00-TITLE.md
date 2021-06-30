@@ -1,8 +1,3 @@
-<!-- .slide: class="transition left transition-bg-grey-4" -->
-
-# A bit of context
-
-##==##
 
 # A bit of context
 ## The platform

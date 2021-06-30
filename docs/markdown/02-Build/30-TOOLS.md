@@ -1,6 +1,7 @@
-# Useful tools
 
-![full-size](./assets/images/cesar-carlevarino-aragon-NL_DF0Klepc-unsplash.jpg)
+<!-- .slide: data-background="./assets/images/cesar-carlevarino-aragon-NL_DF0Klepc-unsplash.jpg" class="transition" -->
+
+# Useful tools
 
 ##==##
 

@@ -1,6 +1,7 @@
-# Crafting the new infrastructure
 
-![full-size](./assets/images/dan-schiumarini-6o-K6uyKD2U-unsplash.jpg)
+<!-- .slide: data-background="./assets/images/dan-schiumarini-6o-K6uyKD2U-unsplash.jpg" class="transition" -->
+
+# Crafting the new infrastructure
 
 ##==##
 

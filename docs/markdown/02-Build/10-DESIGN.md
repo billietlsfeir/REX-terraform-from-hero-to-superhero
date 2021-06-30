@@ -1,6 +1,7 @@
-# Designing the new infrastructure code
 
-![full-size](./assets/images/thisisengineering-raeng-WDCE0T4khsE-unsplash.jpg)
+<!-- .slide: data-background="./assets/images/thisisengineering-raeng-WDCE0T4khsE-unsplash.jpg" class="transition" -->
+
+# Designing the new infrastructure code
 
 ##==##
 

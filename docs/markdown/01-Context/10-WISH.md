@@ -1,9 +1,7 @@
 
-# A bit of context
-## What did we wish for our infrastructure ?
+<!-- .slide: data-background="./assets/images/vil-son-vRyFSqEOTZI-unsplash.jpg" class="transition" -->
 
-![full-width](./assets/images/vil-son-vRyFSqEOTZI-unsplash.jpg)
-
+# What did we wish for our infrastructure ?
 
 ##==##
 
