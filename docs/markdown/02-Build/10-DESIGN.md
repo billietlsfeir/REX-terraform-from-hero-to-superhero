@@ -12,6 +12,20 @@
 - Every name must be **understood** without the code
 - As a last resort, **ban `if` statements** for `lookup` function
 
+```hcl
+locals {
+  gcp_project = lookup(
+    {
+      "ptlm-uat1" = "sp-${var.bu}-instala-${var.environment}-cdp",
+      "ptlm-prod" = "sp-${var.bu}-instala-${var.environment}-cdp",
+      "frlm-dev"  = "sp-${var.bu}-instala-${var.environment}-cdp"
+    },
+    "${var.bu}-${var.environment}",
+    "sp-${var.bu}-des-instala-${var.environment}-cdp"
+  )
+}
+```
+
 ##==##
 
 # Designing the new infrastructure code
