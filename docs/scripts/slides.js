@@ -12,7 +12,7 @@ function buildSlides() {
 }
 
 function retroSlides() {
-  return ['03-Retro/00-TITLE.md'];
+  return ['03-Retro/00-TITLE.md','03-Retro/01-TOUGHNESSES.md','03-Retro/02-BOOSTERS.md','03-Retro/03-SUCCESS.md','03-Retro/04-DIFFICULTIES.md'];
 }
 
 function conclusionSlides() {
