@@ -1,11 +1,14 @@
-<!-- .slide: class="transition bg-pink" -->
 
-# What did we wish for our infrastructure ?
+# A bit of context
+## What did we wish for our infrastructure ?
+
+![full-width](./assets/images/vil-son-vRyFSqEOTZI-unsplash.jpg)
+
 
 ##==##
 
-# What did we wish for our infrastructure ?
-## Our wishes
+# A bit of context
+## What did we wish for our infrastructure ?
 
 - Painless *infrastructure provisionning*
 - Easy *maintainance*
