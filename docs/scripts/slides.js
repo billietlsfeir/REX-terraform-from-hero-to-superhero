@@ -8,7 +8,7 @@ function contextSlides() {
 }
 
 function buildSlides() {
-  return ['02-Build/00-TITLE.md'];
+  return ['02-Build/10-DESIGN.md', '02-Build/20-CRAFTING.md', '02-Build/30-TOOLS.md'];
 }
 
 function retroSlides() {
