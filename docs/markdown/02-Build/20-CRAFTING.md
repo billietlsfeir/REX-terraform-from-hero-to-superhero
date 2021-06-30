@@ -20,6 +20,23 @@
 - Built **exclusively** with technical modules
 - **Colocated** with application code
 
+```shell
+me@my-laptop:~/workspace/my-company/miro-service-foo-$ ls -l
+drwxr-xr-x 3 me me  4096 .github
+drwxr-xr-x 3 me me  4096 docs
+drwxr-xr-x 3 me me  4096 scripts
+drwxr-xr-x 5 me me  4096 src
+drwxr-xr-x 3 me me  4096 terraform
+-rw-r--r-- 1 me me   372 .gitignore
+-rw-r--r-- 1 me me   590 .releaserc.json
+-rw-r--r-- 1 me me    67 build.properties
+-rw-r--r-- 1 me me  2628 docker-compose.yml
+-rw-r--r-- 1 me me   470 Dockerfile
+-rw-r--r-- 1 me me  2222 Makefile
+-rw-r--r-- 1 me me 22863 pom.xml
+-rw-r--r-- 1 me me  3651 README.md
+```
+
 ##==##
 
 # Crafting the new infrastructure
