@@ -42,4 +42,10 @@ drwxr-xr-x 3 me me  4096 terraform
 # Crafting the new infrastructure
 ## The tf-infra project
 
-![h-800](./assets/images/tf-infra.jpg)
+![float-left h-800](./assets/images/tf-infra.jpg)
+
+<br/><br/>
+* **380** ressources
+* **19** "technical" modules
+* **28** "application" modules
+* **15** terraform workspaces 

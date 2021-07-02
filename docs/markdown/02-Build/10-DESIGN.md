@@ -31,7 +31,8 @@ locals {
 # Designing the new infrastructure code
 ## Lego-like modularity
 
-- **Cool** concept kept from the old code
+![float-left w-700](./assets/images/puzzle-1019766_1280.jpg)
+
 - Make it easy to create or remove **infrastructure bits**
 - Have *small* and **specialized** modules
 - Embrace **configuration as code**

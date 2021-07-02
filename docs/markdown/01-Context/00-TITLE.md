@@ -1,16 +1,16 @@
 
 # A bit of context
-## The platform
+## History
 
 - Young product (less than **2 years**)
-- Part of the **Services Platform** department
+- Member of mutualized platform
 - Main management requirement : use **managed services** exclusively
 - Similar product already exists in Brazil
 
 ##==##
 
 # A bit of context
-## The platform
+## History
 
 - **1 cloud engineer** for the entire platform and all its products
 - Platform designed for **french market** only
@@ -20,17 +20,16 @@
 ##==##
 
 # A bit of context
-## Our product
+## The trigger
 
-- Used by **store employees, customers and craftsmen**
 - **Mono-tenant** data architecture
 - New **worldwide** strategy
-- Result of the merger of **2 products**
+- The will to merge **2 products**
 
 ##==##
 
 # A bit of context
-## Our product
+## Technical focus
 
 - **28 micro-services** on Kubernetes
   - 18 from France

@@ -1,25 +1,25 @@
 
 <!-- .slide: data-background="./assets/images/cesar-carlevarino-aragon-NL_DF0Klepc-unsplash.jpg" class="transition" -->
 
-# Useful tools
+# How to manage the "Schmilblick" ?
 
 ##==##
 
-# Useful tools
+# Keep the doc up to date
 ## Terraform-docs
 
 ![full-size](./assets/images/terraform_docs.png)
 
 ##==##
 
-# Useful tools
+# Automate your release process
 ## Semantic release
 
 ![full-size](./assets/images/semantic_release.png)
 
 ##==##
 
-# Useful tools
+# Keep your modules up to date
 ## Dependabot
 
-![full-size](./assets/images/dependabot.png)
+![full-size center](./assets/images/dependabot.png)

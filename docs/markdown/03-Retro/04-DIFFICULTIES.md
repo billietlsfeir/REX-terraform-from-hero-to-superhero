@@ -4,7 +4,10 @@
 
 <br/><br/><br/>
 * **Dynamic management** of module versions not possible
-* **2-step deployments** : infrastructure then application
-* ⚠️ resources managed by **several teams**
+* **2-step deployments** : 
+  * infrastructure 
+  * application
+
+* Be aware of resources managed by **several teams**
 
 

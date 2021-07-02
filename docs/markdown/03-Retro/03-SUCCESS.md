@@ -4,7 +4,8 @@
 
 <br/><br/><br/>
 * **Simple** exploitation
-* 3 BUs **already use** our new infrastructure
+* 4 BUs **already use** our new infrastructure
+  * 2 migrated / 2 created
 * infrastructure creation **less than 30 min**
 * **Ever growing** infrastructure, same team size
 * Better **team work** on infrastructure
