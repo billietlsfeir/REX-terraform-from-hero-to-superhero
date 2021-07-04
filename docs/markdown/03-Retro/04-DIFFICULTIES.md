@@ -11,3 +11,7 @@
 * Be aware of resources managed by **several teams**
 
 
+
+Notes: Difficultés : gestion dynamique des versions de modules impossible
+Gare au chevauchement de gouvernance (parler du couac avec fastly)
+

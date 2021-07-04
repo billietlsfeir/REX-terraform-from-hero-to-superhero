@@ -3,6 +3,8 @@
 
 # Designing the new infrastructure code
 
+Notes: transition vers la conception
+
 ##==##
 
 # Designing the new infrastructure code
@@ -26,6 +28,12 @@ locals {
 }
 ```
 
+Notes: Pré-requis à l’automatisation
+On dérive tout à partir de 3 inputs (bu, env et dédup)
+tout peut etre reconstruit / pas de devinette sauf obligation
+pas de switch des lookups
+Mettre un exemple
+
 ##==##
 
 # Designing the new infrastructure code
@@ -36,6 +44,8 @@ locals {
 - Make it easy to create or remove **infrastructure bits**
 - Have *small* and **specialized** modules
 - Embrace **configuration as code**
+
+Notes: Gestion modulaire par micro-service façon lego
 
 ##==##
 
@@ -48,3 +58,5 @@ locals {
 - Rights management
 - Single overview of every **workspaces**
 - Early adoption among the company's products
+
+Notes: Orchestration via terraform cloud

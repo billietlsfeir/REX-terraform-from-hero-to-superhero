@@ -6,3 +6,7 @@
 * Everything cannot be industrialized
 
 
+
+Notes: Service fait maison qui n’ont pas de provider terraform
+ping, kestra, dev portal > on a fait de la doc dans le wiki
+

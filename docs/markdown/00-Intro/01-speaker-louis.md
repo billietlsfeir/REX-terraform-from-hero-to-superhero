@@ -13,3 +13,5 @@
 
 ### billiet.l@sfeir.com
 <!-- .element: class="icon-phone icon-second" -->
+
+Notes: 

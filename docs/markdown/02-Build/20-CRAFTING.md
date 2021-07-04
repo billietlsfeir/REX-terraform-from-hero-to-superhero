@@ -3,6 +3,8 @@
 
 # Crafting the new infrastructure
 
+Notes: Transition vers les réalisations
+
 ##==##
 
 # Crafting the new infrastructure
@@ -11,6 +13,9 @@
 - **Specialized** and **simple** modules
 - **Product-specific** architectural decisions embedded
 - **Ready to use** configuration for the application
+
+Notes: Spécifique à l'application
+répond à une problematique technique précise
 
 ##==##
 
@@ -37,6 +42,10 @@ drwxr-xr-x 3 me me  4096 terraform
 -rw-r--r-- 1 me me  3651 README.md
 ```
 
+Notes: Code terraform intégré au dépot de code applicatif > dossier terraform
+Les modules applicatifs utilisent (presque) exclusivement des modules techniques
+
+
 ##==##
 
 # Crafting the new infrastructure
@@ -49,3 +58,5 @@ drwxr-xr-x 3 me me  4096 terraform
 * **19** "technical" modules
 * **28** "application" modules
 * **15** terraform workspaces 
+
+Notes: Montrer la doc (ou pas en fait)

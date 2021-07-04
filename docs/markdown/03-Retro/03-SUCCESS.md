@@ -12,3 +12,8 @@
 * **Free time** for other subjects
 
 
+
+Notes: Plus d’infra, équipe iso
+Exploitation de l’infra sans efforts
+Collaboration des devs sur l’évolution de l’infra (parler de la PR pour créer un nouveau topic pour l’ECM)
+
