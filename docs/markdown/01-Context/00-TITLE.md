@@ -57,7 +57,7 @@ Parler des difficultés à faire évoluer l’infra :
 - New **worldwide** strategy 
   - 🇫🇷 🇵🇹 🇮🇹 🇵🇱 🇧🇷 ...
 - The will to merge **2 products**
-- **Mono-tenant** data architecture
+- **Mono-tenant** architecture
 
 ![float-center h-600](./assets/images/fusion.jpg)
 
