@@ -39,6 +39,8 @@ Notes: Parler des difficultés à faire évoluer l’infra :
   - 🇫🇷 🇵🇹 🇮🇹 🇵🇱 🇧🇷 ...
 - The will to merge **2 products**
 
+![float-center h-600](./assets/images/fusion.jpg)
+
 Notes: Parler du produit, la convergeance, la refacturation aux BUs
 
 ##==##
