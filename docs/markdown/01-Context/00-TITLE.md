@@ -1,6 +1,13 @@
+<!-- .slide: data-background="./assets/images/books.jpg" class="transition" -->
+
+# A bit of context
+
+##==##
 
 # A bit of context
 ## History
+
+![float-right h-400](./assets/images/books.jpg)
 
 - Young product (less than **2 years**)
 - Member of mutualized platform
