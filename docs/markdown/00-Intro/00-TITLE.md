@@ -5,3 +5,5 @@
 ## **REX**
 
 Notes: Louis
+
+Parler de la censure

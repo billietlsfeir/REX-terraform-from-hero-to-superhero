@@ -62,6 +62,7 @@ Parler des difficultés à faire évoluer l’infra :
 ![float-center h-600](./assets/images/fusion.jpg)
 
 Notes: Gaëtan => Louis
+
 2020 Portugal
 Parler du produit, la convergeance, la refacturation aux BUs
 
