@@ -14,7 +14,11 @@ dependabot
 # Keep the doc up to date
 ## Terraform-docs
 
-![full-size](./assets/images/terraform_docs.png)
+![float-left w-900](./assets/images/terraform_docs.png)
+
+- Foo
+- Bar
+- Baz
 
 Notes: Ci et outils utilisés :
 Terraform docs
@@ -27,7 +31,11 @@ dependabot
 # Automate your release process
 ## Semantic release
 
-![full-size](./assets/images/semantic_release.png)
+![float-left w-900](./assets/images/semantic_release.png)
+
+- Foo
+- Bar
+- Baz
 
 Notes: Ci et outils utilisés :
 Terraform docs
@@ -40,7 +48,11 @@ dependabot
 # Keep your modules up to date
 ## Dependabot
 
-![full-size center](./assets/images/dependabot.png)
+![float-left w-900](./assets/images/dependabot.png)
+
+- Foo
+- Bar
+- Baz
 
 Notes: Ci et outils utilisés :
 Terraform docs
