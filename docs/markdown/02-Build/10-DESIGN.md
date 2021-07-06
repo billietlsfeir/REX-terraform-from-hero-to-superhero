@@ -6,7 +6,7 @@
 Notes: transition vers la conception
 
 ##==##
-
+<!-- .slide: class="with-code-bg-dark"  -->
 # Designing the new infrastructure code
 ## Naming is everything
 
@@ -14,7 +14,7 @@ Notes: transition vers la conception
 - Every name must be **understood** without the code
 - As a last resort, **ban `if` statements** for `lookup` function
 
-```hcl
+```terraform
 locals {
   gcp_project = lookup(
     {
@@ -27,6 +27,7 @@ locals {
   )
 }
 ```
+<!-- .element: style="color:white" -->
 
 Notes: Pré-requis à l’automatisation
 On dérive tout à partir de 3 inputs (bu, env et dédup)
