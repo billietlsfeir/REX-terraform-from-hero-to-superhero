@@ -16,7 +16,7 @@ Transition vers les réalisations
 
 - **Specialized** and **simple** modules
   - **Postgresql** instance / user
-  - **Kafka** instance / user
+  - **Kafka** cluster / user
   - **Datadog** SLO
   - **Vault** approle
   - **Naming** holding bag

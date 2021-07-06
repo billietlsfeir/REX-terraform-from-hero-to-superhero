@@ -35,8 +35,10 @@ Notes: Gaëtan
 - **1 cloud engineer** for the entire platform and all 
 its products
 - Platform designed for **french market** only
+- Infrastructure already provided by **Terraform**
 - Many **boilerplate code** duplicated
 - **Mutualized infrastructure** for many products
+
 
 Notes: 
 Gaëtan
@@ -60,7 +62,7 @@ Parler des difficultés à faire évoluer l’infra :
 ![float-center h-600](./assets/images/fusion.jpg)
 
 Notes: Gaëtan => Louis
-
+2020 Portugal
 Parler du produit, la convergeance, la refacturation aux BUs
 
 ##==##
