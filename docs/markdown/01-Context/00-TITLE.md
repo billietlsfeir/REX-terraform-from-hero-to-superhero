@@ -35,7 +35,7 @@ Notes: Parler des difficultés à faire évoluer l’infra :
 ## The trigger
 
 - **Mono-tenant** data architecture
-- New **worldwide** strategy
+- New **worldwide** strategy 🇫🇷 🇵🇹 🇮🇹 🇵🇱 🇧🇷 ...
 - The will to merge **2 products**
 
 Notes: Parler du produit, la convergeance, la refacturation aux BUs
@@ -45,11 +45,15 @@ Notes: Parler du produit, la convergeance, la refacturation aux BUs
 # A bit of context
 ## Technical focus
 
+![h-600 float-right](./assets/images/storage.png)
+
 - **28 micro-services** on Kubernetes
   - 18 from France
   - 10 from Brazil
 - **5** different **storage backends**
 - **Many** Kafka topics
 - **Fastly CDN**
+
+
 
 Notes: Parler de l’architecture du produit
