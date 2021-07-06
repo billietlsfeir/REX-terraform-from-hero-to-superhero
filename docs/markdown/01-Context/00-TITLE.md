@@ -18,6 +18,10 @@ Notes:
 # A bit of context
 ## History
 
+![h-600 float-left](./assets/images/clark-young-fQxMGkYXqFU-unsplash.jpg)
+
+<br/>
+
 - **1 cloud engineer** for the entire platform and all its products
 - Platform designed for **french market** only
 - Many **boilerplate code** duplicated
@@ -48,7 +52,9 @@ Notes: Parler du produit, la convergeance, la refacturation aux BUs
 # A bit of context
 ## Technical focus
 
-![h-600 float-right](./assets/images/storage.png)
+![h-600 float-left](./assets/images/storage.png)
+
+<br/>
 
 - **28 micro-services** on Kubernetes
   - 18 from France
