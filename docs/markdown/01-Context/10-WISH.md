@@ -12,7 +12,7 @@ Notes: transition vers les volontés
 
 <br/>
 
-![h-550 float-right](./assets/images/devops.jpg)
+![h-500 float-left](./assets/images/devops.jpg)
 
 - Painless **infrastructure provisionning**
 - Easy **maintainance**
