@@ -35,7 +35,8 @@ Notes: Parler des difficultés à faire évoluer l’infra :
 ## The trigger
 
 - **Mono-tenant** data architecture
-- New **worldwide** strategy 🇫🇷 🇵🇹 🇮🇹 🇵🇱 🇧🇷 ...
+- New **worldwide** strategy 
+  - 🇫🇷 🇵🇹 🇮🇹 🇵🇱 🇧🇷 ...
 - The will to merge **2 products**
 
 Notes: Parler du produit, la convergeance, la refacturation aux BUs

@@ -18,12 +18,12 @@ Notes: transition vers la conception
 locals {
   gcp_project = lookup(
     {
-      "ptlm-uat1" = "sp-${var.bu}-instala-${var.environment}-cdp",
-      "ptlm-prod" = "sp-${var.bu}-instala-${var.environment}-cdp",
-      "frlm-dev"  = "sp-${var.bu}-instala-${var.environment}-cdp"
+      "ptbu-uat1" = "sp-${var.bu}-myproject-${var.environment}-XXX",
+      "ptbu-prod" = "sp-${var.bu}-myproject-${var.environment}-XXX",
+      "frbu-dev"  = "sp-${var.bu}-myproject-${var.environment}-XXX"
     },
     "${var.bu}-${var.environment}",
-    "sp-${var.bu}-des-instala-${var.environment}-cdp"
+    "sp-${var.bu}-xxx-myproject-${var.environment}-XXX"
   )
 }
 ```
@@ -39,7 +39,9 @@ Mettre un exemple
 # Designing the new infrastructure code
 ## Lego-like modularity
 
-![float-left w-700](./assets/images/puzzle-1019766_1280.jpg)
+<br/>
+
+![float-left h-600](./assets/images/lego2.jpg)
 
 - Make it easy to create or remove **infrastructure bits**
 - Have *small* and **specialized** modules
