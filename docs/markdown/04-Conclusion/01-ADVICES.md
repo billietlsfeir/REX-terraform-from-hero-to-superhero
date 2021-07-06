@@ -4,7 +4,7 @@
 
 * Module referencing from git takes **time**
 * Invest in **integration tests**
-* Find the **granulatiry** that suits you best
+* Find the **granularity** that suits you best
 * **Don’t stop** at infrastructure automation
 
 
