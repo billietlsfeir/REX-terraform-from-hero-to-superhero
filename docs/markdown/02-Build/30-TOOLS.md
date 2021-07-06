@@ -19,7 +19,7 @@ dependabot
 Notes: Ci et outils utilisés :
 Terraform docs
 Semantic release
-dependabot
+Dependabot
 
 
 ##==##

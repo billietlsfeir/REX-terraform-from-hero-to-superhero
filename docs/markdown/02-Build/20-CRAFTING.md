@@ -18,14 +18,15 @@ Notes: Spécifique à l'application
 répond à une problematique technique précise
 
 ##==##
-
+<!-- .slide: class="with-code-bg-dark"  -->
 # Crafting the new infrastructure
 ## "Application" modules
 
 - Built **exclusively** with technical modules
 - **Colocated** with application code
 
-```shell
+
+```bash 
 me@my-laptop:~/workspace/my-company/miro-service-foo-$ ls -l
 drwxr-xr-x 3 me me  4096 .github
 drwxr-xr-x 3 me me  4096 docs
@@ -41,6 +42,7 @@ drwxr-xr-x 3 me me  4096 terraform
 -rw-r--r-- 1 me me 22863 pom.xml
 -rw-r--r-- 1 me me  3651 README.md
 ```
+<!-- .element: style="color:white" -->
 
 Notes: Code terraform intégré au dépot de code applicatif > dossier terraform
 Les modules applicatifs utilisent (presque) exclusivement des modules techniques
@@ -51,7 +53,7 @@ Les modules applicatifs utilisent (presque) exclusivement des modules techniques
 # Crafting the new infrastructure
 ## The tf-infra project
 
-![float-left h-800](./assets/images/tf-infra.jpg)
+![float-left w-800](./assets/images/tf-infra.png)
 
 <br/><br/>
 * **380** ressources
