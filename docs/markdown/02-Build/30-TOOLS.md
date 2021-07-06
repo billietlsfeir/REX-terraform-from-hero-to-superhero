@@ -14,11 +14,11 @@ dependabot
 # Keep the doc up to date
 ## Terraform-docs
 
-![float-left w-900](./assets/images/terraform_docs.png)
+![float-left w-600](./assets/images/terraform_docs.png)
 
-- Foo
-- Bar
-- Baz
+- Generate **documentation from code** automatically
+- Lists requirements, providers, modules, inputs and outputs
+- Can be **injected** in an existing markdown file
 
 Notes: Ci et outils utilisés :
 Terraform docs
@@ -31,11 +31,11 @@ dependabot
 # Automate your release process
 ## Semantic release
 
-![float-left w-900](./assets/images/semantic_release.png)
+![float-left w-700](./assets/images/semantic_release.png)
 
-- Foo
-- Bar
-- Baz
+- Track changes from **commit messages**
+- Automatically **increment** version number
+- Generate **changelogs** automatically
 
 Notes: Ci et outils utilisés :
 Terraform docs
@@ -50,9 +50,9 @@ dependabot
 
 ![float-left w-900](./assets/images/dependabot.png)
 
-- Foo
-- Bar
-- Baz
+- Track **dependencies releases** for you
+- Opens **pull-requests** with version increments
+- Works best with full **integration tests**
 
 Notes: Ci et outils utilisés :
 Terraform docs
