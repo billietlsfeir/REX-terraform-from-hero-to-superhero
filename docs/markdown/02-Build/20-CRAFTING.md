@@ -10,6 +10,8 @@ Notes: Transition vers les réalisations
 # Crafting the new infrastructure
 ## "Technical" modules
 
+![float-left w-700](./assets/images/tente-quechua.jpg)
+
 - **Specialized** and **simple** modules
 - **Product-specific** architectural decisions embedded
 - **Ready to use** configuration for the application
