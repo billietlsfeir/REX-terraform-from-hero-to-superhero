@@ -10,6 +10,10 @@ Notes: transition vers les volontés
 # A bit of context
 ## What did we wish for our infrastructure ?
 
+<br/>
+
+![h-550 float-right](./assets/images/devops.jpg)
+
 - Painless **infrastructure provisionning**
 - Easy **maintainance**
 - **100% DevOps** philosoply in the team
