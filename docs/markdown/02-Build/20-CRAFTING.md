@@ -13,6 +13,10 @@ Notes: Transition vers les réalisations
 ![float-left w-700](./assets/images/tente-quechua.jpg)
 
 - **Specialized** and **simple** modules
+  - **Postgresql** instance / user
+  - **Kafka** instance / user
+  - **Datadog** slack alert / SLO
+  - ....
 - **Product-specific** architectural decisions embedded
 - **Ready to use** configuration for the application
 
