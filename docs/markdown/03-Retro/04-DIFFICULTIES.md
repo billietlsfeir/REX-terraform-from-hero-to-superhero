@@ -1,4 +1,4 @@
-# DIFFICULTIES
+# Difficulties
 
 ![float-left w-700](./assets/images/difficulties.jpg)
 

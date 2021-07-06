@@ -1,4 +1,4 @@
-<!-- .slide: data-background="./assets/images/books.jpg" class="transition" -->
+<!-- .slide: data-background="./assets/images/patrick-fore-74TufExdP3Y-unsplash.jpg" class="transition" -->
 
 # A bit of context
 

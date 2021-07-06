@@ -1,4 +1,4 @@
-# BOOSTERS
+# Boosters
 
 ![float-left w-700](./assets/images/rocket-4311575_1280.png)
 

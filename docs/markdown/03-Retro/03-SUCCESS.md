@@ -1,4 +1,4 @@
-# SUCCESS
+# Success
 
 ![float-left h-700](./assets/images/success.jpg)
 
