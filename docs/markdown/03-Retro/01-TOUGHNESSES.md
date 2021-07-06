@@ -1,8 +1,7 @@
 # Toughnesses
 
-![float-left w-700](./assets/images/craftsmen-3094035_1280.jpg)
+![float-left w-600](./assets/images/craftsmen-3094035_1280.jpg)
 
-<br/><br/><br/>
 * Everything couldn't be industrialized
 
 

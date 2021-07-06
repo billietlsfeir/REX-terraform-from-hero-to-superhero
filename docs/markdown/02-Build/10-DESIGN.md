@@ -42,24 +42,10 @@ Mettre un exemple
 
 <br/>
 
-![float-left h-600](./assets/images/lego2.jpg)
+![float-left w-600](./assets/images/kelly-sikkema-Z9AU36chmQI-unsplash.jpg)
 
 - Make it easy to create or remove **infrastructure bits**
-- Have *small* and **specialized** modules
+- Have **small** and **specialized** modules
 - Embrace **configuration as code**
 
 Notes: Gestion modulaire par micro-service façon lego
-
-##==##
-
-# Designing the new infrastructure code
-## Terraform cloud
-
-![float-left w-700](./assets/images/terraform.png)
-
-- Github integration
-- Rights management
-- Single overview of every **workspaces**
-- Early adoption among the company's products
-
-Notes: Orchestration via terraform cloud

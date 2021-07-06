@@ -7,11 +7,12 @@
 # A bit of context
 ## History
 
-![float-left h-350](./assets/images/books.jpg)
+![float-left w-600](./assets/images/books.jpg)
 
 - Young product (less than **2 years**)
 - Member of mutualized platform
-- Management requirement : use **managed services** exclusively
+- Management requirement
+  - use **managed services** exclusively
 - Similar product already exists in Brazil
 
 Notes: 
@@ -25,11 +26,12 @@ Notes:
 # A bit of context
 ## History
 
-![h-600 float-left](./assets/images/clark-young-fQxMGkYXqFU-unsplash.jpg)
+![float-left w-600](./assets/images/clark-young-fQxMGkYXqFU-unsplash.jpg)
 
 <br/>
 
-- **1 cloud engineer** for the entire platform and all its products
+- **1 cloud engineer** for the entire platform and all 
+its products
 - Platform designed for **french market** only
 - Many **boilerplate code** duplicated
 - **Mutualized infrastructure** for many products
@@ -45,10 +47,10 @@ Notes: Parler des difficultés à faire évoluer l’infra :
 # A bit of context
 ## The trigger
 
-- **Mono-tenant** data architecture
 - New **worldwide** strategy 
   - 🇫🇷 🇵🇹 🇮🇹 🇵🇱 🇧🇷 ...
 - The will to merge **2 products**
+- **Mono-tenant** data architecture
 
 ![float-center h-600](./assets/images/fusion.jpg)
 
@@ -59,13 +61,14 @@ Notes: Parler du produit, la convergeance, la refacturation aux BUs
 # A bit of context
 ## Technical focus
 
-![h-600 float-left](./assets/images/storage.png)
+![float-left w-600](./assets/images/storage.png)
 
 <br/>
 
 - **28 micro-services** on Kubernetes
   - 18 from France
   - 10 from Brazil
+- Java (Spring boot), Javascript (React)
 - **5** different **storage backends**
 - **Many** Kafka topics
 - **Fastly CDN**

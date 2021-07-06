@@ -12,12 +12,13 @@ Notes: transition vers les volontés
 
 <br/>
 
-![h-500 float-left](./assets/images/devops.jpg)
+![float-left w-600](./assets/images/devops.jpg)
 
 - Painless **infrastructure provisionning**
 - Easy **maintainance**
 - **100% DevOps** philosoply in the team
 - **Sharp** infrastructure **monitoring**
+- **On the fly** dev environments
 
 Notes: Liste des volontés de l’équipe:
 - Faciliter la création de nouvelles infras

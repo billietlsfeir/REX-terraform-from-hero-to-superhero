@@ -1,11 +1,11 @@
 # Success
 
-![float-left h-700](./assets/images/success.jpg)
+![float-left w-600](./assets/images/success.jpg)
 
 * **Simple** exploitation
 * 4 BUs **already use** our new infrastructure
   * 2 migrated / 2 created
-* Infrastructure creation **less than 30 min**
+* Infrastructure creation in **less than 30 min**
 * **Ever growing** infrastructure, same team size
 * Better **team work** on infrastructure
 * **Free time** for other subjects

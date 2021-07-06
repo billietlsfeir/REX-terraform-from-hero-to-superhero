@@ -8,6 +8,20 @@ Terraform docs
 Semantic release
 dependabot
 
+##==##
+
+# Orchestrate everything
+## Terraform cloud
+
+![float-left w-600](./assets/images/terraform.png)
+
+- Github integration
+- Rights management
+- Single overview of every **workspaces**
+- Early adoption among the company's products
+
+Notes: Orchestration via terraform cloud
+
 
 ##==##
 
@@ -16,14 +30,15 @@ dependabot
 
 ![float-left w-600](./assets/images/terraform_docs.png)
 
-- Generate **documentation from code** automatically
-- Lists requirements, providers, modules, inputs and outputs
 - Can be **injected** in an existing markdown file
+- Generate **documentation from code** automatically
+  - Requirements
+  - Providers
+  - Modules
+  - Inputs
+  - Outputs
 
-Notes: Ci et outils utilisés :
-Terraform docs
-Semantic release
-Dependabot
+Notes: 
 
 
 ##==##
@@ -31,16 +46,15 @@ Dependabot
 # Automate your release process
 ## Semantic release
 
-![float-left w-700](./assets/images/semantic_release.png)
+![float-left w-600](./assets/images/semantic_release.png)
 
+- Create **releases automatically** with your CI pipeline
 - Track changes from **commit messages**
 - Automatically **increment** version number
 - Generate **changelogs** automatically
+- **Does not depends** on your language / framework
 
-Notes: Ci et outils utilisés :
-Terraform docs
-Semantic release
-dependabot
+Notes: possibilité de faire de la delivery continue ou non
 
 
 ##==##
@@ -48,14 +62,25 @@ dependabot
 # Keep your modules up to date
 ## Dependabot
 
-![float-left w-900](./assets/images/dependabot.png)
+![float-left w-600](./assets/images/dependabot.png)
 
 - Track **dependencies releases** for you
 - Opens **pull-requests** with version increments
-- Works best with full **integration tests**
+- Awesome with full **integration tests**
 
-Notes: Ci et outils utilisés :
-Terraform docs
-Semantic release
-dependabot
+Notes: Si les tests d'integ sont bons, on peut merger les yeux fermés
+
+
+##==##
+
+# Don't miss any changes
+## Codeowners
+
+![float-left w-600](./assets/images/jud-mackrill-Of_m3hMsoAA-unsplash.jpg)
+
+- Automatically **add reviewers**
+- Can **split per sub-folder** in the repository
+
+
+Notes: review des PR dependabot et des devs
 

@@ -1,9 +1,10 @@
 ## Friendly advices
 
-![float-left w-700](./assets/images/thumbsup.jpg)
+![float-left w-600](./assets/images/thumbsup.jpg)
 
-* Git referencing takes **execution time**
+* Module referencing from git takes **time**
 * Invest in **integration tests**
+* Find the **granulatiry** that suits you best
 * **Don’t stop** at infrastructure automation
 
 
