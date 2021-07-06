@@ -11,6 +11,8 @@
 
 
 
-Notes: Difficultés : gestion dynamique des versions de modules impossible
+Notes: Louis
+
+ifficultés : gestion dynamique des versions de modules impossible
 Gare au chevauchement de gouvernance (parler du couac avec fastly)
 

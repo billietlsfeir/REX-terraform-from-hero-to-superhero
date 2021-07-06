@@ -3,7 +3,9 @@
 
 # Designing the new infrastructure code
 
-Notes: transition vers la conception
+Notes: Gaëtan
+
+transition vers la conception
 
 ##==##
 <!-- .slide: class="with-code-bg-dark"  -->
@@ -29,7 +31,9 @@ locals {
 ```
 <!-- .element: style="color:white" -->
 
-Notes: Pré-requis à l’automatisation
+Notes: Gaëtan
+
+Pré-requis à l’automatisation
 On dérive tout à partir de 3 inputs (bu, env et dédup)
 tout peut etre reconstruit / pas de devinette sauf obligation
 pas de switch des lookups
@@ -48,4 +52,6 @@ Mettre un exemple
 - Have **small** and **specialized** modules
 - Embrace **configuration as code**
 
-Notes: Gestion modulaire par micro-service façon lego
+Notes: Gaëtan
+
+Gestion modulaire par micro-service façon lego

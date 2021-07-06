@@ -2,6 +2,8 @@
 
 # A bit of context
 
+Notes: Gaëtan
+
 ##==##
 
 # A bit of context
@@ -15,7 +17,7 @@
   - use **managed services** exclusively
 - Similar product already exists in Brazil
 
-Notes: 
+Notes: Gaëtan
 - Nouveau produit qui a moins de 2 ans 
 - Liberté des choix technos et dans notre manière de faire notre release Management
 - Exigences de la direction: Services managés 
@@ -36,7 +38,10 @@ its products
 - Many **boilerplate code** duplicated
 - **Mutualized infrastructure** for many products
 
-Notes: Parler des difficultés à faire évoluer l’infra :
+Notes: 
+Gaëtan
+
+Parler des difficultés à faire évoluer l’infra :
 - Responsabilité non définie / porté hors des équipes dev
 - Déploiement multi-BU non prévue
 - Duplication de code
@@ -54,7 +59,9 @@ Notes: Parler des difficultés à faire évoluer l’infra :
 
 ![float-center h-600](./assets/images/fusion.jpg)
 
-Notes: Parler du produit, la convergeance, la refacturation aux BUs
+Notes: Gaëtan => Louis
+
+Parler du produit, la convergeance, la refacturation aux BUs
 
 ##==##
 
@@ -75,4 +82,6 @@ Notes: Parler du produit, la convergeance, la refacturation aux BUs
 
 
 
-Notes: Parler de l’architecture du produit
+Notes: Louis
+
+Parler de l’architecture du produit

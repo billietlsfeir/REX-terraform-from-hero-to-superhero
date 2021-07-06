@@ -9,7 +9,9 @@
 
 
 
-Notes: Profitable ecosystem:
+Notes: Gaëtan => Louis
+
+Profitable ecosystem:
  > quality (landing zone, dbapi)
 > moderne (service managée, datadog)
 > coaching (pilote GKE Mutu, éprouvement de traefik)

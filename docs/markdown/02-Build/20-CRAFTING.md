@@ -3,7 +3,9 @@
 
 # Crafting the new infrastructure
 
-Notes: Transition vers les réalisations
+Notes: Gaëtan => Louis
+
+Transition vers les réalisations
 
 ##==##
 
@@ -22,7 +24,9 @@ Notes: Transition vers les réalisations
 - **Ready to use** configuration for the application
 - Built by **OPS** for DEVs
 
-Notes: Spécifique à l'application
+Notes: Louis
+
+Spécifique à l'application
 répond à une problematique technique précise
 
 ##==##
@@ -37,7 +41,9 @@ répond à une problematique technique précise
 - **Same lifecycle** as the application
 - Built by **DEVs**, reviewed by OPS
 
-Notes: Code terraform intégré au dépot de code applicatif > dossier terraform
+Notes: Louis
+
+Code terraform intégré au dépot de code applicatif > dossier terraform
 Les modules applicatifs utilisent (presque) exclusivement des modules techniques
 
 
@@ -53,4 +59,6 @@ Les modules applicatifs utilisent (presque) exclusivement des modules techniques
 * **28** "application" modules
 * **15** terraform workspaces 
 
-Notes: Montrer la doc (ou pas en fait)
+Notes: Louis
+
+Montrer la doc (ou pas en fait)

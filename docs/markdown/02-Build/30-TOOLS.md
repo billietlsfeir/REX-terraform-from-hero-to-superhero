@@ -3,7 +3,9 @@
 
 # How to manage the "Schmilblick" ?
 
-Notes: Ci et outils utilisés :
+Notes: Louis => Gaëtan
+
+Ci et outils utilisés :
 Terraform docs
 Semantic release
 dependabot
@@ -20,7 +22,9 @@ dependabot
 - Single overview of every **workspaces**
 - Early adoption among the company's products
 
-Notes: Orchestration via terraform cloud
+Notes: Gaëtan
+
+Orchestration via terraform cloud
 
 
 ##==##
@@ -38,7 +42,7 @@ Notes: Orchestration via terraform cloud
   - Inputs
   - Outputs
 
-Notes: 
+Notes: Gaëtan
 
 
 ##==##
@@ -54,7 +58,9 @@ Notes:
 - Generate **changelogs** automatically
 - **Does not depends** on your language / framework
 
-Notes: possibilité de faire de la delivery continue ou non
+Notes: Gaëtan
+
+possibilité de faire de la delivery continue ou non
 
 
 ##==##
@@ -68,7 +74,9 @@ Notes: possibilité de faire de la delivery continue ou non
 - Opens **pull-requests** with version increments
 - Awesome with full **integration tests**
 
-Notes: Si les tests d'integ sont bons, on peut merger les yeux fermés
+Notes: Gaëtan
+
+Si les tests d'integ sont bons, on peut merger les yeux fermés
 
 
 ##==##
@@ -82,5 +90,7 @@ Notes: Si les tests d'integ sont bons, on peut merger les yeux fermés
 - Can **split per sub-folder** in the repository
 
 
-Notes: review des PR dependabot et des devs
+Notes: Gaëtan
+
+review des PR dependabot et des devs
 

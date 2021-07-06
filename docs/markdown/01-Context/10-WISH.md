@@ -3,7 +3,9 @@
 
 # What did we wish for our infrastructure ?
 
-Notes: transition vers les volontés
+Notes: Louis
+
+transition vers les volontés
 
 ##==##
 
@@ -20,7 +22,9 @@ Notes: transition vers les volontés
 - **Sharp** infrastructure **monitoring**
 - **On the fly** dev environments
 
-Notes: Liste des volontés de l’équipe:
+Notes: Louis
+
+Liste des volontés de l’équipe:
 - Faciliter la création de nouvelles infras
 - Faciliter les évolutions
 - Partage de responsabilité OPS avec l'ensemble de l'équipe/Pas de SPOF dans l'équipe (OPS)

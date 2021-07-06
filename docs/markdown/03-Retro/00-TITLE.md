@@ -2,4 +2,4 @@
 
 # Retrospective
 
-Notes: foo
+Notes: Gaëtan
