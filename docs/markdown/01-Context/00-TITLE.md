@@ -35,7 +35,7 @@ Notes: Gaëtan
 - **1 cloud engineer** for the entire platform and all 
 its products
 - Platform designed for **french market** only
-- Infrastructure already provided by **Terraform**
+- Infrastructure already provided by **Terraform** hosted on **Github**
 - Many **boilerplate code** duplicated
 - **Mutualized infrastructure** for many products
 
