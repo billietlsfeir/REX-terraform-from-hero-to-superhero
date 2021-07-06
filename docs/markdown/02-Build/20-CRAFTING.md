@@ -19,6 +19,7 @@ Transition vers les réalisations
   - **Kafka** instance / user
   - **Datadog** SLO
   - **Vault** approle
+  - **Naming** holding bag
   - ....
 - **Product-specific** architectural decisions embedded
 - **Ready to use** configuration for the application
