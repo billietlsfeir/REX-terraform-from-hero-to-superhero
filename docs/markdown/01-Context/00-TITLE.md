@@ -7,11 +7,11 @@
 # A bit of context
 ## History
 
-![float-right h-400](./assets/images/books.jpg)
+![float-left h-350](./assets/images/books.jpg)
 
 - Young product (less than **2 years**)
 - Member of mutualized platform
-- Main management requirement : use **managed services** exclusively
+- Management requirement : use **managed services** exclusively
 - Similar product already exists in Brazil
 
 Notes: 
