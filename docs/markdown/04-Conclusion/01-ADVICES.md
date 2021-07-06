@@ -1,5 +1,7 @@
 ## Friendly advices
 
+![float-left w-700](./assets/images/thumbsup.jpg)
+
 * Git referencing takes **execution time**
 * Invest in **integration tests**
 * **Don’t stop** at infrastructure automation
