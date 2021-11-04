@@ -6,6 +6,7 @@
 Notes: Gaëtan
 
 transition vers la conception
+Terraform (explications)
 
 ##==##
 <!-- .slide: class="with-code-bg-dark"  -->
@@ -55,3 +56,4 @@ Mettre un exemple
 Notes: Gaëtan
 
 Gestion modulaire par micro-service façon lego
+Modules => library terraform (ensemble de resources)
