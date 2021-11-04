@@ -3,7 +3,7 @@
 ![float-left w-600](./assets/images/thumbsup.jpg)
 
 * Module referencing from git takes **time**
-* Invest in **integration tests**
+* Invest in **integration tests** (with Terratest, for example)
 * Find the **granularity** that suits you best
 * **Don’t stop** at infrastructure automation
 
